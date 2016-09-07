@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2ce340a82bf7ebd477f143aeb618dc18c504acbe">
+        <dex dex="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_997187959dfed79d59b7465d441f52df9dd0ce84/classes.dex" />
+    </item>
+    <item
+        jar="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.2_fe3877a675f9ceb86a3426c94215098b824979e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/benedictakinlosotu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_66e0a87eb4d728240292d3532da432e2754350cc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_6a63bf1d305520dae8ecaab69880742a2bf5dfac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="993fe385ae6672e73a2efa0cad27b31b5f987a9b">
+        <dex dex="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4caabc7452dcd0271acb9fed3f1e019285c9cb30/classes.dex" />
+    </item>
+    <item
+        jar="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/benedictakinlosotu/Desktop/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.2_5a47942c747eaa09b55945b9a99f3ea5bd129111/classes.dex" />
+    </item>
+
+</items>
